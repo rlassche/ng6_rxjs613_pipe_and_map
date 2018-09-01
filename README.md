@@ -2,6 +2,8 @@
 
 [Stackoverflow](https://stackoverflow.com/questions/51725352/angular6-map-is-not-a-function)
 
+[Information about the rxjs-6 changes](https://academind.com/learn/javascript/rxjs-6-what-changed/)
+
 # Versions used
 My versions:
 
@@ -22,3 +24,10 @@ rxjs                              6.3.1
 typescript                        2.7.2
 webpack                           4.9.2
 ```
+
+# Sample code
+
+Check the code in app.component.ts.
+
+Get some json data and do some filtering and return the filtered result set.
+
